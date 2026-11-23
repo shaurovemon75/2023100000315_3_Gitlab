@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+  background-color: #fef3c7;
     color: #333;
 }
 
@@ -16,6 +16,7 @@ body {
     margin: 60px auto;
     padding: 20px;
 }
+
 
 .card {
     background-color: white;
